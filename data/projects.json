@@ -1,0 +1,121 @@
+[
+  {
+    "repository": "THUDM/AgentRL",
+    "url": "https://github.com/THUDM/AgentRL",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "0431786ad6f9abc98d8c679fc0ace31c6c9f1fdb"
+  },
+  {
+    "repository": "microsoft/agent-lightning",
+    "url": "https://github.com/microsoft/agent-lightning",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "19c3c7ea416050772baeb4dffdf04293469360e7"
+  },
+  {
+    "repository": "NovaSky-AI/SkyRL",
+    "url": "https://github.com/NovaSky-AI/SkyRL",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "f751553fe46a49a0ae46cd952be19bcaa4d5ef96"
+  },
+  {
+    "repository": "WooooDyy/AgentGym-RL",
+    "url": "https://github.com/WooooDyy/AgentGym-RL",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "a207d7ee4f3d1c5c06c46e89550d4e1b60ba8739"
+  },
+  {
+    "repository": "mll-lab-nu/RAGEN",
+    "url": "https://github.com/mll-lab-nu/RAGEN",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "808e051983c11590e6d44930ce4da583c93a4155"
+  },
+  {
+    "repository": "NVIDIA-NeMo/labs-molt",
+    "url": "https://github.com/NVIDIA-NeMo/labs-molt",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "ba967434efc67e5a19dab1fe44cc1fd6967030df"
+  },
+  {
+    "repository": "areal-project/AReaL",
+    "url": "https://github.com/areal-project/AReaL",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "45b53d8cdc2181538fe25ebe4673b3e5230bacd4"
+  },
+  {
+    "repository": "alibaba/ROLL",
+    "url": "https://github.com/alibaba/ROLL",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "0b56ee22c6769f17c6e809d4d866eb653bbda2a0"
+  },
+  {
+    "repository": "verl-project/verl",
+    "url": "https://github.com/verl-project/verl",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "48f45890662c07d087698ac2227f129bfbce7119"
+  },
+  {
+    "repository": "openpsi-project/ReaLHF",
+    "url": "https://github.com/openpsi-project/ReaLHF",
+    "archived": true,
+    "checked_on": "2026-10-12",
+    "readme_sha": "8d807cdb3b4154090485eddbc9caa302c63c34ef"
+  },
+  {
+    "repository": "OpenRLHF/OpenRLHF",
+    "url": "https://github.com/OpenRLHF/OpenRLHF",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "2f6d22f561e1249283248c7a0bad0dbb5e78b928"
+  },
+  {
+    "repository": "RLinf/RLinf",
+    "url": "https://github.com/RLinf/RLinf",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "ac9d2dbd0b0e271be743794147e8520564a7e9c1"
+  },
+  {
+    "repository": "WooooDyy/AgentGym",
+    "url": "https://github.com/WooooDyy/AgentGym",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "987578784ba4ff017ce4bab5fcc5173708779a3d"
+  },
+  {
+    "repository": "SWE-Gym/SWE-Gym",
+    "url": "https://github.com/SWE-Gym/SWE-Gym",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "6f8d76c535bf6640b3bf220158b5b809c35e06dd"
+  },
+  {
+    "repository": "SWE-bench/SWE-smith",
+    "url": "https://github.com/SWE-bench/SWE-smith",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "1f35c75566d7803e0cab5a9d71949536f6c32a64"
+  },
+  {
+    "repository": "Agent-One-Lab/AgentFly",
+    "url": "https://github.com/Agent-One-Lab/AgentFly",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "b005c6daaf1b807b1fb57cd9152c6a193639a76e"
+  },
+  {
+    "repository": "DeepSoftwareAnalytics/swe-factory",
+    "url": "https://github.com/DeepSoftwareAnalytics/swe-factory",
+    "archived": false,
+    "checked_on": "2026-10-12",
+    "readme_sha": "047666b4f3ffa742fd0582b0806f5656f265be90"
+  }
+]
